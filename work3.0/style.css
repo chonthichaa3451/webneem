@@ -1,0 +1,61 @@
+p{
+    color: rgb(7, 6, 7);
+    font-size: 20px;
+    font-family : 'Arial', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+    
+    background-color: rgb(136, 115, 153);
+}
+#k{
+    background-color: rgb(184, 209, 226);
+}
+#rg{
+    background-color: rgb(195, 170, 209);
+}
+#wm{
+    background-color: rgb(173, 143, 204);
+}
+#ns{
+    background-color: rgb(142, 111, 180);
+    border: solid rgb(104, 84, 116);
+}
+#rt{
+    background-color: rgb(171, 146, 192);
+    border: solid rgb(104, 84, 116);
+}
+#oi{
+    background-color: rgb(149, 123, 184);
+    border: solid rgb(104, 84, 116);
+}
+#pm{
+    background-color: rgb(168, 157, 180);
+}
+#nb{
+    background-color: rgb(216, 199, 221);
+}
+#r{
+    background-color: rgb(225, 206, 240);
+}
+#w{
+    background-color: rgb(175, 157, 192);
+}
+#y{
+    background-color: rgb(195, 149, 216);
+}
+#b{
+    background-color: rgb(181, 155, 196);
+}
+#u{
+    background-color: rgb(210, 178, 211);
+}
+#s{
+    background-color: rgb(210, 178, 211);
+}
+h1{
+    text-align: center;
+    border: solid rgb(104, 84, 116);
+    background-color: rgb(210, 178, 211);
+}
+}
